@@ -1,4 +1,4 @@
-############ 계산기 만들기 ###########
+############ 계산기 만들기 연습 ###########
 
 def calcul():
   print('\nyou can insert two number and cal. \n inputable cal : +, -, *, /, //, %\n')
